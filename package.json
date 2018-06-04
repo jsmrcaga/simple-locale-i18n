@@ -1,0 +1,25 @@
+{
+  "name": "simple-locale-i18n",
+  "version": "1.8.0",
+  "description": "Very simple locale handler",
+  "main": "simple-locale.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "i18n",
+    "internationalization",
+    "locale",
+    "locales"
+  ],
+  "author": "Jo Colina",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+	"trad.hello": "Salut!",
+	"trad.dafuck": "QUOI?",
+	"trad.please": "Svp",
+	"sublevel": {
+		"one": "Sublevel one test",
+		"two": {
+			"one": "Sublevel one of sublevel two"
+		}
+	}
+}
